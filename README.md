@@ -22,17 +22,18 @@ Have a menu system that will allow the user to:
 * List Students given a course name
 * Exit
 
-##**Assumptions in the application:**
-###Enrolling a student in a course:
-*When asked to choose a student, assume that valid ID is entered
-*When asked to select which course - assume that valid ID is entered
+**Assumptions in the application:**
 
-###Un-enrolling a student in a course:
-*When asked to choose a student to unenroll, assume that valid ID is entered
-*When asked to select which course - assume that valid ID is entered
+Enrolling a student in a course:
+* When asked to choose a student, assume that valid ID is entered
+* When asked to select which course - assume that valid ID is entered
 
-###Removing a course
-*When asked to select which course to remove- assume that valid ID is entered
+Un-enrolling a student in a course:
+* When asked to choose a student to unenroll, assume that valid ID is entered
+* When asked to select which course - assume that valid ID is entered
+
+Removing a course
+* When asked to select which course to remove- assume that valid ID is entered
 
 ![Image of Main and 1/2 example](https://github.com/pdcam/Summer-School/blob/SummerSchool/SummerSchool/images/1.png)
 ![Image of Main and 2/2 example](https://github.com/pdcam/Summer-School/blob/SummerSchool/SummerSchool/images/2.png)
